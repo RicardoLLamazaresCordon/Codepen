@@ -1,0 +1,154 @@
+.btn{
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 900;
+    margin-right: 0px;
+    margin-top:18px;
+    width:120px;
+    padding: 11px;
+    background-color:grey;
+    color:whitesmoke;
+}
+
+.btn-login {
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 900;
+    margin-right: 0px;
+    margin-top:18px;
+    width:90px;
+    padding: 11px;
+    background-color:grey;
+    color:whitesmoke;
+}
+
+.btn-login:hover {
+    color: #cea135;
+}
+
+.btn-signup {
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 900;
+    margin-right: 0px;
+    margin-top:18px;
+    width:90px;
+    padding: 11px;
+    background-color:grey;
+    color:whitesmoke;
+}
+
+.btn-signup:hover{
+    color:#cea135;
+
+}
+
+.btn:hover{
+    color:#cea135;
+}
+
+
+.btn i {
+    color: rgb(0, 212, 0);
+    margin-left: 5px;
+    font-size: 1.5em;
+}
+
+.btn1-footer > button {
+    background-color:#32323D;
+    border-color: gray;
+    color:white;
+    font-size: 18px;
+    font-weight: 300;
+    font-family: 'Open Sans', sans-serif;
+    height: 60px;
+    width:310px;
+}
+
+.btn2-footer > button {
+    background-color:#32323D;
+    border-color: gray;
+    color: white;
+    font-size: 18px;
+    font-weight: 300;
+    font-family: 'Open Sans', sans-serif;
+    height: 60px;
+    width:310px;
+}
+
+.btn3-footer > button {
+    background-color:#32323D;
+    border-color: gray;
+    color: white;
+    font-size: 18px;
+    font-weight: 300;
+    font-family: 'Open Sans', sans-serif;
+    height: 60px;
+    width:310px;
+}
+
+.btn4-footer > button {
+    background-color:#32323D;
+    border-color:gray;
+    color: white;
+    font-size: 18px;
+    font-weight: 300;
+    font-family: 'Open Sans', sans-serif;
+    height: 60px;
+    width:310px;
+}
+
+.buttoms-footer  {
+    margin-top: -115px;
+    display: flex;
+    align-items:center;
+    justify-content:space-between;
+}
+
+
+
+.btn-grandes {
+    margin-left: 40px;
+    margin-top:-330px;
+    height: 250px;
+    width: 500px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    grid-gap: 15px;
+}
+
+.btn-1 button {
+
+    border-color:limegreen;
+    height: 70px;
+    width: 275px;
+    color:black;
+    background-color:limegreen;    
+    font-size: 26px;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;;
+}
+
+.btn-2 button {
+    border-color:black;
+    height: 70px;
+    width: 235px;
+    color:white;
+    background-color:black;    
+    font-size: 26px;
+    font-weight: 700;
+    font-family: 'Open Sans', sans-serif;;
+}
+
+.btn-1 button:hover {
+    background-color: #cea135;
+}
+
+.btn-2 button:hover {
+    background-color: #cea135;
+}
+
+.centro-izquierda > .hand i {
+    color:orange;
+}

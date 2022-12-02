@@ -1,0 +1,196 @@
+
+header {
+    margin-top: 35px;
+    
+
+}
+
+.navigation-wrapper {
+    background-color:#26272a;
+    height:85px;
+    display: flex;
+    justify-content:space-around;
+    align-items:center;
+}
+
+
+main {
+    height: auto;
+    background-color:#32323d;
+}
+
+
+.left-column .logo img {
+    margin-left: -25px;
+}
+
+
+.logo img {
+    width: 160px;
+    height: 35px;
+    padding: 2px;
+}   
+
+
+
+.navigation-wrapper .links {
+    margin-left: -5px;
+    margin-bottom: 25px;
+}
+
+.navigation-wrapper .links a {
+    color: white;
+    font-size: 20px;
+    font-weight: 800;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    margin:10px;
+    
+}   
+
+.navigation-wrapper .links a:hover{
+    color:#cea135;
+
+}
+
+.navigation-wrapper .tercero {
+    
+    width:auto;
+    height: auto;
+}
+
+#spark {
+    color:whitesmoke;
+    opacity: 0.8;
+    font-size: 18px;
+}
+
+#spark:hover {
+    color:#cea135;
+}
+
+
+i {
+    color:grey;
+    font-size: 1.5em;
+    margin-right:8px;    
+    margin-left: 15px;
+}
+
+i:hover {
+    color:#cea135;
+}
+
+.explore {
+    margin-left: 10px;
+    position: relative;
+}
+
+.explore h5{
+    text-align:left;
+    margin-bottom:-5px ;
+}
+
+
+.links {
+    color:yellow;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 900;
+}
+
+.links:active {
+    color: #cea135;
+}
+    
+
+
+
+ h4 {
+    margin-left:-120px;
+    margin-top: 30px;
+    color:lightgray;
+    opacity: 0.8;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+}
+
+h4:hover {
+    color:#cea135;
+}
+
+
+.tercero {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;    
+}
+
+
+.image{
+    margin-top: -145px;
+    padding-block: 50px;
+    
+}
+
+.image img {
+    
+    width: auto;
+    height: 500px;
+    
+}
+
+.image h5 {
+    font-size: 18px;
+    color:white;
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 10px;
+}
+
+.parte-central {
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.parte-central .centro-izquierda {
+    margin-top: 161px;
+    height:497px;
+    margin-left: 45px;
+    margin-bottom: 155px;
+    
+}
+
+.primer-texto p {
+    margin-top: -90px;
+    color:white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 35px;
+}
+
+.segundo-texto p {
+    color:white;
+    opacity: 0.5;
+    font-size: 30px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.strong {
+    font-family: 'Open Sans', sans-serif;
+    color:whitesmoke;
+    font-weight:bolder;
+    background-color: transparent;
+    opacity: 1;
+}
+
+.codepen {
+    color:#02eaf9;
+    background-color: transparent;
+}
+
+
+#hand {
+    color:orange;
+    font-size: 0.95em;
+    font-weight: bolder;
+}
